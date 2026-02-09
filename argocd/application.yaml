@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/ajayamundla/delta-gitops
+    repoURL: git@github.com:ajayamundla/delta-gitops.git
     targetRevision: main
     path: apps/sample-app
   destination:
